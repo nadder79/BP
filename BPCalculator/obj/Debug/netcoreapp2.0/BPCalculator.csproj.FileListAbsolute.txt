@@ -1,0 +1,11 @@
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\BPCalculator\bin\Debug\netcoreapp2.0\BPCalculator.deps.json
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\BPCalculator\bin\Debug\netcoreapp2.0\BPCalculator.runtimeconfig.json
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\BPCalculator\bin\Debug\netcoreapp2.0\BPCalculator.runtimeconfig.dev.json
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\BPCalculator\bin\Debug\netcoreapp2.0\BPCalculator.dll
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\BPCalculator\bin\Debug\netcoreapp2.0\BPCalculator.pdb
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\BPCalculator\obj\Debug\netcoreapp2.0\BPCalculator.csproj.CoreCompileInputs.cache
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\BPCalculator\obj\Debug\netcoreapp2.0\BPCalculator.AssemblyInfoInputs.cache
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\BPCalculator\obj\Debug\netcoreapp2.0\BPCalculator.AssemblyInfo.cs
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\BPCalculator\obj\Debug\netcoreapp2.0\BPCalculator.dll
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\BPCalculator\obj\Debug\netcoreapp2.0\BPCalculator.pdb
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\BPCalculator\obj\Debug\netcoreapp2.0\BPCalculator.csprojAssemblyReference.cache
