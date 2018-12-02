@@ -1,0 +1,17 @@
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\bin\Debug\netcoreapp2.1\UnitTestProject2.deps.json
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\bin\Debug\netcoreapp2.1\UnitTestProject2.runtimeconfig.json
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\bin\Debug\netcoreapp2.1\UnitTestProject2.runtimeconfig.dev.json
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\bin\Debug\netcoreapp2.1\UnitTestProject2.dll
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\bin\Debug\netcoreapp2.1\UnitTestProject2.pdb
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\bin\Debug\netcoreapp2.1\BPCalculator.dll
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\bin\Debug\netcoreapp2.1\BPCalculator.pdb
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.csprojAssemblyReference.cache
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.csproj.CoreCompileInputs.cache
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.AssemblyInfoInputs.cache
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.AssemblyInfo.cs
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.csproj.CopyComplete
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.dll
+C:\Users\eahnadd\Desktop\DevOps\2nd_Semester\CDS\CA1\bp\UnitTestProject2\obj\Debug\netcoreapp2.1\UnitTestProject2.pdb
